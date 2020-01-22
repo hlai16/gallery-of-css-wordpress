@@ -1,4 +1,4 @@
-# www110-gallery-of-css-wordpress
+# gallery-of-css-wordpress
 In this project, I created a website for Gallery of CSS using Wordpress.
 
 
